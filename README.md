@@ -9,3 +9,6 @@
 - Lucia Salamone <https://github.com/lucia-salamone/modulo_1>
 - Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-1>
 
+| Nombre y Apellido | Dirección de mail | Número de teléfono |
+|:-----------------:|:-----------------:|:------------------:|
+|Pilar Mujica|pilarmujicaa@gmail.com|2615884934|
