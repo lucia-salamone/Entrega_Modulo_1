@@ -3,6 +3,7 @@
 ---
 
 **Grupo Avogadro Toast**
+<<img width="1024" height="1024" alt="ChatGPT Image 11 mar 2026, 18_45_43" src="https://github.com/user-attachments/assets/feab4a01-4722-4704-9141-a9c99f5683e6" />
 
 - Sara Kemelmajer <https://github.com/sara-kemelmajer/modulo-1>
 - Pilar Mujica <https://github.com/pilar-mujica/modulo_1>
