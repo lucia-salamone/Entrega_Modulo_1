@@ -12,3 +12,4 @@
 | Nombre y Apellido | Dirección de mail | Número de teléfono |
 |:-----------------:|:-----------------:|:------------------:|
 |Pilar Mujica|pilarmujicaa@gmail.com|2615884934|
+|Sara Kemelmajer|saritakemel@gmail.com|2615937535|
