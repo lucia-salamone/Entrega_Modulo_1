@@ -13,3 +13,5 @@
 |:-----------------:|:-----------------:|:------------------:|
 |Pilar Mujica|pilarmujicaa@gmail.com|2615884934|
 |Sara Kemelmajer|saritakemel@gmail.com|2615937535|
+|Rocio Martinez|rocimartinezdiaz@gmail.com|2615989777|
+|Lucia Salamone|luchisalamone10@gmail.com|2612113885|
