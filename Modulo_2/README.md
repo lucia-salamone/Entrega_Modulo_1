@@ -8,7 +8,7 @@
 ### **Integrantes:**
 - Pilar Mujica <https://github.com/pilar-mujica/modulo_2>
 - Sara Kemelmajer <https://github.com/sara-kemelmajer/modulo-2>
-- Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-1>
+- Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-2->
 - Lucia Salamone <https://github.com/lucia-salamone/modulo_2>
 - Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_2>
 - Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/M-DULO-2>
