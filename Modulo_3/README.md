@@ -11,7 +11,7 @@
 - Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-3->
 - Lucia Salamone <https://github.com/lucia-salamone/Modulo_3>
 - Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_3>
-- Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/M-DULO-3>
+- Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/MODULO-3>
 
 | Nombre y Apellido | Dirección de mail | Número de teléfono |
 |:-----------------:|:-----------------:|:------------------:|
