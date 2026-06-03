@@ -10,8 +10,8 @@
 - Sara Kemelmajer <https://github.com/sara-kemelmajer/modulo-2>
 - Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-2->
 - Lucia Salamone <https://github.com/lucia-salamone/modulo_1/tree/main/Modulo_2>
-- Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_2>
-- Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/M-DULO-2>
+- Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_1/tree/main/Modulo_2>
+- Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/modulo_1/tree/main/modulo_2>
 
 | Nombre y Apellido | Dirección de mail | Número de teléfono |
 |:-----------------:|:-----------------:|:------------------:|
