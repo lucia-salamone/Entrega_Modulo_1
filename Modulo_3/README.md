@@ -9,7 +9,7 @@
 - Pilar Mujica <https://github.com/pilar-mujica/modulo_3>
 - Sara Kemelmajer <https://github.com/sara-kemelmajer/modulo-3>
 - Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-3->
-- Lucia Salamone <https://github.com/lucia-salamone/Modulo_3>
+- Lucia Salamone <https://github.com/lucia-salamone/modulo_1/tree/main/Modulo_3>
 - Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_3>
 - Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/MODULO-3>
 
