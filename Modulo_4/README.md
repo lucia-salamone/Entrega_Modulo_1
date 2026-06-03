@@ -6,12 +6,12 @@
 <<img width="1024" height="1024" alt="ChatGPT Image 11 mar 2026, 18_45_43" src="https://github.com/user-attachments/assets/feab4a01-4722-4704-9141-a9c99f5683e6" />
 
 ### **Integrantes:**
-- Pilar Mujica <https://github.com/pilar-mujica/modulo_1>
+- Pilar Mujica <https://github.com/pilar-mujica/modulo_4>
 - Sara Kemelmajer <https://github.com/sara-kemelmajer/modulo-1/tree/main/modulo-4>
-- Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-1>
-- Lucia Salamone <https://github.com/lucia-salamone/modulo_1>
-- Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_1>
-- Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/modulo_1>
+- Rocio Martinez <https://github.com/rocimartinezdiaz-code/Modulo-4>
+- Lucia Salamone <https://github.com/lucia-salamone/modulo_1/tree/main/Modulo_4>
+- Lucas Segura <https://github.com/lucasseguramarich-rgb/Modulo_4>
+- Caterina Dinnocenzo <https://github.com/caterinadinnocenzo/modulo_4>
 
 | Nombre y Apellido | Dirección de mail | Número de teléfono |
 |:-----------------:|:-----------------:|:------------------:|
